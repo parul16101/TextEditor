@@ -8,8 +8,8 @@ To utilize Kilo, simply invoke it with a filename as follows: kilo
 
 ## Keys:
 
-CTRL-S: Save 
-CTRL-Q: Quit 
+CTRL-S: Save <br />
+CTRL-Q: Quit <br />
 CTRL-F: Find string in file (ESC to exit search, arrows to navigate)
 
 ## Features
